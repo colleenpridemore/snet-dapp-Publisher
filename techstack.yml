@@ -1,0 +1,1111 @@
+repo_name: colleenpridemore/snet-dapp-Publisher
+report_id: eddcd6068057445defd6e56725083a24
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-05T07:09:14+00:00'
+requested_by: MarinaFedy
+provider: github
+branch: master
+detected_tools_count: 82
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher
+  detection_source: Repo Metadata
+- name: ES6
+  description: The next version of JavaScript
+  website_url: http://www.ecma-international.org/ecma-262/6.0/
+  version: 6.24.1
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4109/16407404782_8b9c57eab3.jpg
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Vivek205
+  last_updated_on: 2019-06-18 10:51:40.000000000 Z
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Vivek205
+  last_updated_on: 2019-06-18 10:51:40.000000000 Z
+- name: Material-UI
+  description: Material UI is a library of React UI components that implements Google's
+    Material Design.
+  website_url: https://github.com/mui/material-ui
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1904/default_44d81cb9fadbc3688b7e91a6d5217d0ea5358b57.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: dasari-ananya
+  last_updated_on: 2020-12-23 06:43:29.000000000 Z
+- name: Protobuf
+  description: Google's data interchange format
+  website_url: https://developers.google.com/protocol-buffers/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Serialization Frameworks
+  image_url: https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: dasari-ananya
+  last_updated_on: 2020-12-23 06:43:29.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Marina Fedyantceva
+  last_updated_on: 2024-05-24 12:21:51.000000000 Z
+- name: React Router
+  description: A complete routing solution for React.js
+  website_url: https://github.com/rackt/react-router
+  version: 5.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/3350/8261421.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Marina Fedyantceva
+  last_updated_on: 2024-05-24 12:21:51.000000000 Z
+- name: Redux
+  description: Predictable state container for JavaScript apps
+  website_url: https://redux.js.org/
+  version: 5.0.1
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/4074/13142323.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Marina Fedyantceva
+  last_updated_on: 2024-03-12 14:57:53.000000000 Z
+- name: Storybook
+  description: Build bulletproof UI components faster
+  website_url: https://storybook.js.org/
+  version: 5.3.21
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/9240/sOct-Txm_400x400.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: dasari-ananya
+  last_updated_on: 2020-12-23 06:43:29.000000000 Z
+- name: css-loader
+  description: Helps webpack to collect CSS from all the css files
+  website_url: https://github.com/webpack-contrib/css-loader
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: dasari-ananya
+  last_updated_on: 2020-12-29 15:03:16.000000000 Z
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  version: 3.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: dasari-ananya
+  last_updated_on: 2020-12-23 06:43:29.000000000 Z
+- name: redux-thunk
+  description: Thunk middleware for Redux
+  website_url: https://github.com/gaearon/redux-thunk
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/5448/13142323.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Marina Fedyantceva
+  last_updated_on: 2024-03-12 14:57:53.000000000 Z
+- name: AWS Amplify
+  description: JavaScript Open Source Library with React, React Native Extensions
+  website_url: https://github.com/aws/aws-amplify
+  version: 4.3.46
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: AWS Tools
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Marina Fedyantceva
+  last_updated_on: 2024-03-12 14:57:53.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Marina Fedyantceva
+  last_updated_on: 2024-05-29 14:18:34.000000000 Z
+- name: Dotenv
+  description: Loads environment variables from .env for Nodejs projects
+  website_url: https://github.com/motdotla/dotenv
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Vivek205
+  last_updated_on: 2021-04-19 13:25:55.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Vivek205
+  last_updated_on: 2019-06-18 10:51:40.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/.github/workflows/sonar.yml
+  detection_source: ".github/workflows/sonar.yml"
+  last_updated_by: Vivek205
+  last_updated_on: 2021-11-15 05:28:50.000000000 Z
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 3.2.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Marina Fedyantceva
+  last_updated_on: 2024-05-24 12:21:51.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Vivek205
+  last_updated_on: 2019-06-18 10:51:40.000000000 Z
+- name: Sentry
+  description: See performance issues, fix errors faster, and optimize code health.
+  website_url: https://sentry.io/welcome/?utm_source=stackshare&utm_medium=link&utm_campaign=profile
+  open_source: true
+  hosted_saas: true
+  category: Monitoring
+  sub_category: Exception Monitoring
+  image_url: https://img.stackshare.io/service/191/default_9262326592c97828a2a4299dec085a3674dd05f4.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: dasari-ananya
+  last_updated_on: 2020-12-23 06:43:29.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Vivek205
+  last_updated_on: 2019-06-18 10:51:40.000000000 Z
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sridhar Babu Kolapalli
+  last_updated_on: 2019-08-20 14:49:11.000000000 Z
+- name: Moment.js
+  description: A JavaScript date library for parsing, validating, manipulating, and
+    formatting dates
+  website_url: http://momentjs.com/
+  version: 2.30.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Marina Fedyantceva
+  last_updated_on: 2024-06-06 10:11:13.000000000 Z
+- name: chalk
+  description: terminal colors
+  website_url: https://github.com/chalk/chalk
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Vivek205
+  last_updated_on: 2021-04-21 13:33:50.000000000 Z
+- name: date-fns
+  description: Modern JavaScript date utility library
+  website_url: https://date-fns.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/10865/default_5551fb8853689f607a2bc0d5a09355d5a3d52bf0.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Marina Fedyantceva
+  last_updated_on: 2024-05-23 10:29:19.000000000 Z
+- name: husky
+  website_url: https://github.com/typicode/husky
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Vivek
+  last_updated_on: 2019-09-25 11:25:40.000000000 Z
+- name: lint-staged
+  website_url: https://github.com/okonet/lint-staged
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10577/11071.jpeg
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Marina Fedyantceva
+  last_updated_on: 2024-03-12 14:57:53.000000000 Z
+- name: web3
+  website_url: https://github.com/ethereum/web3.js/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8418/no-img-open-source.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Marina Fedyantceva
+  last_updated_on: 2024-03-12 14:57:53.000000000 Z
+- name: "@babel/node"
+  description: Babel command line
+  package_url: https://www.npmjs.com/@babel/node
+  version: 7.23.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16153/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Marina Fedyantceva
+  last_updated_on: 2024-05-29 14:18:34.000000000 Z
+- name: "@babel/preset-env"
+  description: A Babel preset for each environment
+  package_url: https://www.npmjs.com/@babel/preset-env
+  version: 7.24.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15819/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Marina Fedyantceva
+  last_updated_on: 2024-05-29 14:18:34.000000000 Z
+- name: "@material-ui/core"
+  description: React components that implement Google's Material Design
+  package_url: https://www.npmjs.com/@material-ui/core
+  version: 4.11.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16271/default_f04d39fc656c2e32ee1b9d3875a3002459aa3b69.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: dasari-ananya
+  last_updated_on: 2020-12-23 06:43:29.000000000 Z
+- name: "@material-ui/icons"
+  description: Material Design Svg Icons converted to Material-UI React components
+  package_url: https://www.npmjs.com/@material-ui/icons
+  version: 4.11.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16471/default_73c88a18b684e01cbdbf945631a40a44aff5a777.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: dasari-ananya
+  last_updated_on: 2020-12-23 06:43:29.000000000 Z
+- name: "@material-ui/lab"
+  description: Material-UI Lab - Incubator for Material-UI React components
+  package_url: https://www.npmjs.com/@material-ui/lab
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18760/default_b057657dca80f65f97b5bbe8ba405ffa92071739.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: dasari-ananya
+  last_updated_on: 2020-12-23 06:43:29.000000000 Z
+- name: "@material-ui/styles"
+  description: Material-UI Styles - The styling solution of Material-UI
+  package_url: https://www.npmjs.com/@material-ui/styles
+  version: 4.11.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17576/default_e98b11d23d67b728bd1f3e02eba62d97a55febbd.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: dasari-ananya
+  last_updated_on: 2020-12-23 06:43:29.000000000 Z
+- name: "@sentry/browser"
+  description: Official Sentry SDK for browsers
+  package_url: https://www.npmjs.com/@sentry/browser
+  version: 5.29.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18385/default_3918a37cf2f76449e061a2c79fb02113faa1391a.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Marina Fedyantceva
+  last_updated_on: 2024-05-27 12:34:36.000000000 Z
+- name: "@storybook/addon-actions"
+  description: Action Logger addon for storybook
+  package_url: https://www.npmjs.com/@storybook/addon-actions
+  version: 5.3.21
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16126/default_73326c44fbfa7369fd17573edb113e5d849468bc.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Marina Fedyantceva
+  last_updated_on: 2024-03-12 14:57:53.000000000 Z
+- name: "@storybook/addon-links"
+  description: Story Links addon for storybook
+  package_url: https://www.npmjs.com/@storybook/addon-links
+  version: 5.3.21
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16204/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: dasari-ananya
+  last_updated_on: 2020-12-23 06:43:29.000000000 Z
+- name: "@storybook/addons"
+  description: Storybook addons store
+  package_url: https://www.npmjs.com/@storybook/addons
+  version: 5.3.21
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16200/default_b4f5b6f31c5ab1ffee4bacf20842cd41a8f2658d.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: dasari-ananya
+  last_updated_on: 2020-12-23 06:43:29.000000000 Z
+- name: "@storybook/react"
+  description: 'Storybook for React: Develop React Component in isolation with Hot
+    Reloading'
+  package_url: https://www.npmjs.com/@storybook/react
+  version: 5.3.21
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16042/default_72d4237e6719b7d75d0307bf8b5718584fdc3425.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Marina Fedyantceva
+  last_updated_on: 2024-05-24 12:21:51.000000000 Z
+- name: adm-zip
+  description: Javascript implementation of zip for nodejs with support for electron
+    original-fs
+  package_url: https://www.npmjs.com/adm-zip
+  version: 0.5.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16663/default_e654289254bcb9b55e3dca992739e962dc0c7297.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Vivek205
+  last_updated_on: 2021-04-19 13:25:55.000000000 Z
+- name: archiver
+  description: A streaming interface for archive generation
+  package_url: https://www.npmjs.com/archiver
+  version: 5.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16407/default_4cc3f31b8c64a6268fc123f0965a09d1b11180af.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Vivek205
+  last_updated_on: 2021-04-19 13:25:55.000000000 Z
+- name: babel-preset-react
+  description: Babel preset for all React plugins
+  package_url: https://www.npmjs.com/babel-preset-react
+  version: 6.24.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15825/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Marina Fedyantceva
+  last_updated_on: 2024-05-29 14:18:34.000000000 Z
+- name: babel-register
+  description: Babel require hook
+  package_url: https://www.npmjs.com/babel-register
+  version: 6.26.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15865/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Marina Fedyantceva
+  last_updated_on: 2024-05-29 14:18:34.000000000 Z
+- name: chalk
+  description: Terminal string styling done right
+  package_url: https://www.npmjs.com/chalk
+  version: 4.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Vivek205
+  last_updated_on: 2021-04-21 13:33:50.000000000 Z
+- name: color
+  description: Color conversion and manipulation with CSS string support
+  package_url: https://www.npmjs.com/color
+  version: 3.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16600/default_9d292a50abc76f1f74581b311ad930a616b1785c.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: dasari-ananya
+  last_updated_on: 2020-12-23 06:43:29.000000000 Z
+- name: eslint-config-airbnb
+  description: Airbnb's ESLint config, following our styleguide
+  package_url: https://www.npmjs.com/eslint-config-airbnb
+  version: 19.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15857/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Marina Fedyantceva
+  last_updated_on: 2024-05-03 07:40:46.000000000 Z
+- name: eslint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/eslint-config-prettier
+  version: 9.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Marina Fedyantceva
+  last_updated_on: 2024-05-24 12:21:51.000000000 Z
+- name: eslint-config-react-app
+  description: ESLint configuration used by Create React App
+  package_url: https://www.npmjs.com/eslint-config-react-app
+  version: 7.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16088/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Marina Fedyantceva
+  last_updated_on: 2024-05-24 12:21:51.000000000 Z
+- name: eslint-plugin-import
+  description: Import with sanity
+  package_url: https://www.npmjs.com/eslint-plugin-import
+  version: 2.29.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Marina Fedyantceva
+  last_updated_on: 2024-05-03 07:40:46.000000000 Z
+- name: eslint-plugin-jsx-a11y
+  description: Static AST checker for accessibility rules on JSX elements
+  package_url: https://www.npmjs.com/eslint-plugin-jsx-a11y
+  version: 6.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15845/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Marina Fedyantceva
+  last_updated_on: 2024-05-03 07:40:46.000000000 Z
+- name: eslint-plugin-prettier
+  description: Runs prettier as an eslint rule
+  package_url: https://www.npmjs.com/eslint-plugin-prettier
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Marina Fedyantceva
+  last_updated_on: 2024-05-24 12:21:51.000000000 Z
+- name: eslint-plugin-promise
+  description: Enforce best practices for JavaScript promises
+  package_url: https://www.npmjs.com/eslint-plugin-promise
+  version: 6.1.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15885/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Marina Fedyantceva
+  last_updated_on: 2024-05-03 07:40:46.000000000 Z
+- name: eslint-plugin-react
+  description: React specific linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-react
+  version: 7.34.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Marina Fedyantceva
+  last_updated_on: 2024-05-24 12:21:51.000000000 Z
+- name: eslint-plugin-react-hooks
+  description: ESLint rules for React Hooks
+  package_url: https://www.npmjs.com/eslint-plugin-react-hooks
+  version: 4.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16149/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Marina Fedyantceva
+  last_updated_on: 2024-05-24 12:21:51.000000000 Z
+- name: google-protobuf
+  description: Protocol Buffers for JavaScript
+  package_url: https://www.npmjs.com/google-protobuf
+  version: 3.14.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17483/default_8c4651c288471a00b2fd6f2055b6de29cb9a049d.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Marina Fedyantceva
+  last_updated_on: 2024-03-12 14:57:53.000000000 Z
+- name: history
+  description: Manage session history with JavaScript
+  package_url: https://www.npmjs.com/history
+  version: 4.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16209/default_dc80ff0a17bac19253430a4f0f586714841116db.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: dasari-ananya
+  last_updated_on: 2020-12-23 06:43:29.000000000 Z
+- name: html2canvas
+  description: Screenshots with JavaScript
+  package_url: https://www.npmjs.com/html2canvas
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17554/default_8d32936cb624bf7f51657c1540463db0a3c4106e.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: dasari-ananya
+  last_updated_on: 2020-12-23 06:43:29.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 2.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Vivek
+  last_updated_on: 2019-09-25 11:25:40.000000000 Z
+- name: lint-staged
+  description: Lint files staged by git
+  package_url: https://www.npmjs.com/lint-staged
+  version: 8.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Marina Fedyantceva
+  last_updated_on: 2024-03-12 14:57:53.000000000 Z
+- name: material-design-icons
+  description: Material Design icons by Google
+  package_url: https://www.npmjs.com/material-design-icons
+  version: 3.0.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17409/default_bdd3cbd2ffd904a2fe09048437badf6984450361.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: dasari-ananya
+  last_updated_on: 2020-12-23 06:43:29.000000000 Z
+- name: moment
+  description: Parse, validate, manipulate, and display dates
+  package_url: https://www.npmjs.com/moment
+  version: 2.30.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15847/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Marina Fedyantceva
+  last_updated_on: 2024-06-06 10:11:13.000000000 Z
+- name: papaparse
+  description: Fast and powerful CSV parser for the browser that supports web workers
+    and streaming large files
+  package_url: https://www.npmjs.com/papaparse
+  version: 5.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17945/default_40b5ae806e118a20c1717c75a46652a7358d8b42.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: dasari-ananya
+  last_updated_on: 2020-12-23 06:43:29.000000000 Z
+- name: path
+  description: Node.JS path module
+  package_url: https://www.npmjs.com/path
+  version: 0.12.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16082/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Marina Fedyantceva
+  last_updated_on: 2024-05-28 12:38:09.000000000 Z
+- name: prompts
+  description: Lightweight, beautiful and user-friendly prompts
+  package_url: https://www.npmjs.com/prompts
+  version: 2.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17250/default_8da30b412bf0dbb63f862bee0dfab0a32df2fb69.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Marina Fedyantceva
+  last_updated_on: 2024-03-12 14:57:53.000000000 Z
+- name: query-string
+  description: Parse and stringify URL query strings
+  package_url: https://www.npmjs.com/query-string
+  version: 6.13.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16244/default_380ae3d73e22c7ca1f42b96479bcd0095dabc0d3.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Marina Fedyantceva
+  last_updated_on: 2024-03-12 14:57:53.000000000 Z
+- name: react-app-rewired
+  description: Tweak the create-react-app webpack config
+  package_url: https://www.npmjs.com/react-app-rewired
+  version: 2.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18317/default_f1e168ebe0f124084b9a0acbe78bc5cdba7b4575.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Marina Fedyantceva
+  last_updated_on: 2024-05-24 12:21:51.000000000 Z
+- name: react-copy-to-clipboard
+  description: Copy-to-clipboard React component
+  package_url: https://www.npmjs.com/react-copy-to-clipboard
+  version: 5.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17254/default_9aa9c9d4e491c9d2d70df74bfa33cf525babb7f5.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Marina Fedyantceva
+  last_updated_on: 2024-05-24 12:21:51.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Marina Fedyantceva
+  last_updated_on: 2024-05-24 12:21:51.000000000 Z
+- name: react-dropzone
+  description: Simple HTML5 drag-drop zone with React.js
+  package_url: https://www.npmjs.com/react-dropzone
+  version: 10.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16979/default_665377899254fe85c1cf6bf7f15e24c4180a76ac.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Marina Fedyantceva
+  last_updated_on: 2024-05-24 12:21:51.000000000 Z
+- name: react-ga
+  description: React Google Analytics Module
+  package_url: https://www.npmjs.com/react-ga
+  version: 2.6.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18260/default_e883f2ab27e3b57d1e2e1d1474b09e7351e11b54.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Marina Fedyantceva
+  last_updated_on: 2024-05-24 12:21:51.000000000 Z
+- name: react-helmet
+  description: A document head manager for React
+  package_url: https://www.npmjs.com/react-helmet
+  version: 6.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16513/default_4e3259350c525d1d859fa80a938000081d7c9db8.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Marina Fedyantceva
+  last_updated_on: 2024-05-24 12:21:51.000000000 Z
+- name: react-redux
+  description: Official React bindings for Redux
+  package_url: https://www.npmjs.com/react-redux
+  version: 9.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15984/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Marina Fedyantceva
+  last_updated_on: 2024-05-24 12:21:51.000000000 Z
+- name: react-router-dom
+  description: DOM bindings for React Router
+  package_url: https://www.npmjs.com/react-router-dom
+  version: 5.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Marina Fedyantceva
+  last_updated_on: 2024-05-24 12:21:51.000000000 Z
+- name: react-scripts
+  description: Configuration and scripts for Create React App
+  package_url: https://www.npmjs.com/react-scripts
+  version: 5.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Marina Fedyantceva
+  last_updated_on: 2024-05-29 14:18:34.000000000 Z
+- name: react-slick
+  description: React port of slick carousel
+  package_url: https://www.npmjs.com/react-slick
+  version: 0.30.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17365/default_c11ea7d401c11f11d89301d0302509ab7d72e5ac.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Marina Fedyantceva
+  last_updated_on: 2024-05-24 12:21:51.000000000 Z
+- name: rimraf
+  description: A deep deletion module for node
+  package_url: https://www.npmjs.com/rimraf
+  version: 3.0.2
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Vivek205
+  last_updated_on: 2021-04-19 13:25:55.000000000 Z
+- name: slick-carousel
+  description: The last carousel you'll ever need
+  package_url: https://www.npmjs.com/slick-carousel
+  version: 1.8.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17737/default_9693d58c90f5c726ee648423687212d2a94266da.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Marina Fedyantceva
+  last_updated_on: 2024-03-12 14:57:53.000000000 Z
+- name: utf8
+  description: A well-tested UTF-8 encoder/decoder written in JavaScript
+  package_url: https://www.npmjs.com/utf8
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17864/default_99a4718ac3f2beccb28962b727b0a38010c9b496.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Vivek
+  last_updated_on: 2019-09-10 10:12:57.000000000 Z
+- name: validate.js
+  description: Declarative validations for JavaScript
+  package_url: https://www.npmjs.com/validate.js
+  version: 0.13.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17770/default_a3a8e3ccb38174acb180f0920c5d4e2fea848911.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: dasari-ananya
+  last_updated_on: 2020-12-23 06:43:29.000000000 Z
+- name: web3
+  description: Ethereum JavaScript API
+  package_url: https://www.npmjs.com/web3
+  version: 4.5.0
+  license: LGPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16369/default_17385ab3aa01d4c295c08d4a9736140df691c5e9.png
+  detection_source_url: https://github.com/colleenpridemore/snet-dapp-Publisher/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Marina Fedyantceva
+  last_updated_on: 2024-03-12 14:57:53.000000000 Z
